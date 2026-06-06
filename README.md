@@ -58,9 +58,6 @@
                     <div class="servicio-icon">
                         <i class="fas fa-home"></i>
                     </div>
-                    <h3>Ceremonias en el Hogar</h3>
-                    <p>Realizamos velorios con el respeto y decoro que se merece en la intimidad del hogar</p>
-                </div>
                 <div class="servicio-card">
                     <div class="servicio-icon">
                         <i class="fas fa-church"></i>
