@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Sepelios F. Nébres - Servicios Funerarios Dignos en Argentina. Atención 24/7">
+    <meta name="description" content="Sepelios S.B. - Servicios Funerarios dignos en CABA y alrededores Atención personalizada">
     <title>Sepelios S.B. - Servicios Funerarios</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -32,7 +32,7 @@
     <!-- Hero Section -->
     <section class="hero" id="inicio">
         <div class="hero-content">
-            <h1>Sepelios F. Nébres</h1>
+            <h1>Sepelios S.B.</h1>
             <p>Servicios Funerarios con dignidad y respeto</p>
             <p class="hero-subtitle">Atención personalizada - Zona CABA y alrededores</p>
             <div class="hero-buttons">
