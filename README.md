@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Sepelios F. Nébres - Servicios Funerarios Dignos en Argentina. Atención 24/7">
-    <title>Sepelios F. Nébres - Servicios Funerarios</title>
+    <title>Sepelios S.B. - Servicios Funerarios</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
@@ -33,8 +33,8 @@
     <section class="hero" id="inicio">
         <div class="hero-content">
             <h1>Sepelios F. Nébres</h1>
-            <p>Servicios Funerarios con Dignidad y Respeto</p>
-            <p class="hero-subtitle">Atención 24/7 - Zona Gran Buenos Aires y alrededores</p>
+            <p>Servicios Funerarios con dignidad y respeto</p>
+            <p class="hero-subtitle">Atención personalizada - Zona CABA y alrededores</p>
             <div class="hero-buttons">
                 <a href="#contacto" class="btn btn-primary">Contactar Ahora</a>
                 <a href="#servicios" class="btn btn-secondary">Nuestros Servicios</a>
@@ -52,7 +52,29 @@
                         <i class="fas fa-ambulance"></i>
                     </div>
                     <h3>Traslado Inmediato</h3>
-                    <p>Servicio de traslado rápido y profesional disponible 24/7 en toda la zona de cobertura</p>
+                    <p>Servicio de traslado rápido y profesional disponible en toda la zona de cobertura</p>
+                </div>
+                <div class="servicio-card">
+                    <div class="servicio-icon">
+                        <i class="fas fa-home"></i>
+                    </div>
+                <div class="servicio-card">
+                    <div class="servicio-icon">
+                        <i class="fas fa-church"></i>
+                    </div>
+                    <h3>Cremación</h3>
+                    <p>Servicio de cremación directo</p>
+                </div>
+                <div class="servicio-card">
+                    <div class="servicio-icon">
+                        <i class="fas fa-home"></i>
+                    </div>
+                <div class="servicio-card">
+                    <div class="servicio-icon">
+                        <i class="fas fa-church"></i>
+                    </div>
+                    <h3>Salas velatorias</h3>
+                    <p>Realizamos velorios con el respeto y decoro que se merece</p>
                 </div>
                 <div class="servicio-card">
                     <div class="servicio-icon">
@@ -77,7 +99,7 @@
                         <i class="fas fa-paperclip"></i>
                     </div>
                     <h3>Trámites Administrativos</h3>
-                    <p>Asistencia completa con toda la documentación y gestión administrativa necesaria</p>
+                    <p>Asistencia completa con toda la documentación y gestión administrativa necesaria. Asesoramiento con trámites PAMI y ANSES.</p>
                 </div>
                 <div class="servicio-card">
                     <div class="servicio-icon">
@@ -140,8 +162,8 @@
                         <i class="fas fa-phone"></i>
                         <div>
                             <h4>Teléfono</h4>
-                            <p><a href="tel:+5491123456789">+54 9 11 2345-6789</a></p>
-                            <p class="small">Disponible 24/7</p>
+                            <p><a href="tel:+5491136584970">+54 9 11 3658-4970</a></p>
+                            <p class="small">Disponibilidad garantizada</p>
                         </div>
                     </div>
                     <div class="info-item">
@@ -156,7 +178,7 @@
                         <i class="fas fa-map-marker-alt"></i>
                         <div>
                             <h4>Ubicación</h4>
-                            <p>Gran Buenos Aires, Argentina</p>
+                            <p>Ciudad Autónoma de Buenos Aires, Argentina</p>
                             <p class="small">Cobertura en toda la zona</p>
                         </div>
                     </div>
@@ -215,7 +237,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2026 Sepelios F. Nébres. Todos los derechos reservados.</p>
+                <p>&copy; 2026 Sepelios S.B. Todos los derechos reservados.</p>
             </div>
         </div>
     </footer>
